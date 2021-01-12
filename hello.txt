@@ -3,6 +3,11 @@
 3 row
 
 5 row master
+<<<<<<< HEAD
 6 row iss53
 
 8 row iss53
+=======
+
+7 row hotfix
+>>>>>>> master
